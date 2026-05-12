@@ -1,0 +1,19 @@
+disabled = false
+locale = "en"
+weight = 1
+title = "danielhua.com"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "January 2, 2006"
+  description = "danielhua.com"
+
+[params.author]
+  name = "Daniel Hua"
+  headline = "email: dh@danielhua.com"
+  bio = ""
+  links = [
+    { github = "https://github.com/danielhuadotcom" },
+    { email = "mailto:dh@danielhua.com" },
+  ]

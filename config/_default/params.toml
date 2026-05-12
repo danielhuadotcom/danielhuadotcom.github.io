@@ -1,0 +1,40 @@
+colorScheme = "fire"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "fixed"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = false
+
+[article]
+  showDate = true
+  showAuthor = false
+  showHero = true
+  heroStyle = "big"
+  showBreadcrumbs = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+
+[list]
+  showHero = false
+  showSummary = true
+  cardView = true
+  groupByYear = true
+
+[taxonomy]
+  showTermCount = true
