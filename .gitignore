@@ -1,3 +1,15 @@
 public/
 resources/
 .hugo_build.lock
+
+# Editor
+*.swp
+*.swo
+*~
+
+# WSL / Windows
+*:Zone.Identifier
+
+# OS
+.DS_Store
+Thumbs.db
