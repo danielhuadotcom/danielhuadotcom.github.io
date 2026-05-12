@@ -31,8 +31,8 @@ but were only partially successful with a pawn endgame of lesser difficulty that
 - no model was able to beat an "odds" matchup[^4] I personally can beat comfortably. Which isn't really that meaningful
 but not that surprising
 - gemini flash produces extremely unhinged and incoherent messages in the place of valid SAN moves when the position 
-gets too hard. I haven't reviewed the other message traces in detail yet, but sample 5 appears to contain an entire blog
-post ranting about the Invisible Hand of the Algorithm or something
+gets too hard. I haven't reviewed the other message traces in detail yet, but 2 Knight + Move odds gemini flash sample 5 appears 
+to contain an entire blog post ranting about the Invisible Hand of the Algorithm or something, complete with HTML formatting
 
 I was surprised by the poor performance of Anthropic models, and ran this to confirm that the configured 
 "medium" reasoning effort in OpenRouter wasn't the culprit.
